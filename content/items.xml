@@ -1,0 +1,72 @@
+<items gfxroot="gfx/items/" version="1">
+
+  <trinket
+    id="1"
+    name="Shiny Apple"
+    gfx="shiny_apple_trinket.png"
+    description="Why is it an apple?!"
+    cache="firedelay damage speed"
+  />
+
+  <passive
+    id="2"
+    name="Bag of Vomit"
+    gfx="bag_of_vomit_passive.png"
+    description="I'm nauseous..."
+    quality="2"
+    cache="damage"
+  />
+
+  <trinket
+    id="3"
+    name="Boulder"
+    gfx="boulder_trinket.png"
+    description="It looks happy!"
+    cache="damage"
+  />
+
+  <passive
+    id="4"
+    name="The Lantern"
+    gfx="the_lantern_passive.png"
+    description="Lit during daylight"
+    quality="3"
+    cache="damage"
+  />
+
+  <active
+    id="5"
+    name="Spiritbreaker"
+    gfx="spiritbreaker_active.png"
+    description="Form the new from broken!"
+    quality="4"
+    cache="damage"
+  />
+
+  <passive
+    id="6"
+    name="Neurosyphilis"
+    gfx="neurosyphilis_passive.png"
+    description="Broken reality"
+    quality="3"
+    cache="damage"
+  />
+
+  <passive
+    id="7"
+    name="Will2Power"
+    gfx="will2power_passive.png"
+    description="I AM DYNAMITE!"
+    quality="4"
+    cache="damage"
+  />
+
+  <trinket
+    id="8"
+    name="Spirit Shard"
+    gfx="spirit_shard_consumable.png"
+    description="It glows with determination!"
+    cache="damage"
+  />
+
+</items>
