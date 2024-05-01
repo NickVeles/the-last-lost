@@ -1,4 +1,4 @@
-## The Last Lost
+# The Last Lost
 
 A mod for the game The Binding of Isaac: Repentance.
 
